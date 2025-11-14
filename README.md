@@ -67,20 +67,20 @@ The Payroll Management System is a mini project developed in C++ that demonstrat
 
 ### Step 1: Clone or Download the Project
 ```bash
-git clone <repository-url>
-cd payroll-management-system
+git clone https://github.com/yashpatil118/mini-project.git
+cd Payroll-Management-System
 ```
 
 ### Step 2: Compile the Program
 
 **Using GCC/G++:**
 ```bash
-g++ payroll.cpp -o payroll
+g++ payrollManagementSystem.cpp -o payroll
 ```
 
 **Using MinGW (Windows):**
 ```bash
-g++ payroll.cpp -o payroll.exe
+g++ payrollManagementSystem.cpp -o payroll.exe
 ```
 
 **Using Visual Studio:**
@@ -148,23 +148,23 @@ payroll.exe
 ## 📸 Screenshots
 
 ### Cover Page
-![Cover Page](Picture1.png)
+![Cover Page](./Payroll-Management-System/Picture1.png)
 *The cover page the payroll management system.*
 
 ### Login Page
-![Login Page](Picture2.png)
+![Login Page](./Payroll-Management-System/Picture2.png)
 *Interface for Login details.*
 
 ### Main Menu
-![Main Menu](Picture3.png)
+![Main Menu](./Payroll-Management-System/Picture3.png)
 *Main menu of the payroll management system*
 
 ### Employee Records Display
-![View Records](Picture4.png)
+![View Records](./Payroll-Management-System/Picture4.png)
 *Display of all employee records stored in the system.*
 
 ### Pay Slip Generation
-![Pay Slip](image.png)
+![Pay Slip](./Payroll-Management-System/image.png)
 *Generated pay slip with complete salary breakdown for an employee.*
 
 ## 🔮 Future Enhancements
