@@ -149,18 +149,22 @@ payroll.exe
 
 ### Cover Page
 ![Cover Page](./Payroll-Management-System/Picture1.png)
+
 *The cover page the payroll management system.*
 
 ### Login Page
 ![Login Page](./Payroll-Management-System/Picture2.png)
+
 *Interface for Login details.*
 
 ### Main Menu
 ![Main Menu](./Payroll-Management-System/Picture3.png)
+
 *Main menu of the payroll management system*
 
 ### Employee Records Display
 ![View Records](./Payroll-Management-System/Picture4.png)
+
 *Display of all employee records stored in the system.*
 
 ### Pay Slip Generation
